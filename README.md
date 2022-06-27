@@ -18,14 +18,18 @@ Push to the branch (git push origin improve-app)
 Create a Pull request
 Open the folder location on terminal and use the following command to run app
 
-##How To Run It
+## How To Run It
 Use Live share extension to run the HTML File.
 
-
 ## Technology used
-HTML
-Java Script
+HTML,
+Java Script,
 CSS
 
+## Contact
+Email :muceravn@gmail.com
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+MIT License
+
+Copyright (c) 2022 muceraaa
