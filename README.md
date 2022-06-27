@@ -7,6 +7,13 @@ Valma Mucera 27 June 2022
 ## Project description
 The app is a HTML/CSS/JS frontend that accesses data from a public API.
 
+## Screenshots
+![Screenshot (6)](https://user-images.githubusercontent.com/102764302/175933799-be3caa19-6c2b-46db-9d13-93992714ce37.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/102764302/175933663-244e4b58-5f03-4be1-8614-1ceae1b04e24.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/102764302/175933903-2e26c49a-6f16-4b42-84e3-abf7821033cd.png)
+
 ## Getting Files
 Fork the repo
 Create a new branch in your terminal (git checkout -b improve-feature)
